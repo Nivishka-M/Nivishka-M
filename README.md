@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <!-- Animated Header Banner -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nivishka%20Manchanayake&fontColor=00ffff&fontSize=50&fontAlignY=35&desc=🔐%20Cybersecurity%20Enthusiast%20|%20💻%20Secure%20Systems%20Developer&descSize=18&descAlignY=55&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Nivishka%20Manchanayake&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Computer%20Science%20and%20Engineering%20UG%20|%20Infosec%20Enthusiast&descSize=18&descAlignY=55&descColor=c9d1d9&animation=fadeIn)
 
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Aspiring+Cybersecurity+Professional+%7C+CS%26E+Undergraduate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Aspiring+Cybersecurity+Professional+%7C+CSE+Undergraduate)](https://git.io/typing-svg)
   
 </div>
 
@@ -58,22 +58,13 @@ Here are some ideas to get you started:
 <img align="right" alt="Hacker Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class CyberSecurityEngineer:
+class ComputerScienceEngineer:
     def __init__(self):
         self.name = "Nivishka Manchanayake"
         self.role = "Aspiring Cybersecurity Professional"
-        self.education = "Final Year CS&E @ University of Moratuwa"
-        self.location = "Sri Lanka 🇱🇰"
+        self.education = "Final Year CSE-UG @ University of Moratuwa"
+        self.location = "Sri Lanka"
         
-    def mindset(self):
-        return [
-            "Security-First Approach 🛡️",
-            "Think beyond 'it works'",
-            "How it fails ❌",
-            "How it scales 📈", 
-            "How it can be attacked 🎯"
-        ]
-    
     def current_focus(self):
         return {
             "🔬": "Penetration Testing",
@@ -90,35 +81,7 @@ class CyberSecurityEngineer:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 </p>
 
-<!-- Security Arsenal Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> // Security Arsenal
 
-<div align="center">
-  
-### ⚔️ Offensive Security
-  
-[![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-75%25-ff0040?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-80%25-ff0040?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![Web App Security](https://img.shields.io/badge/Web_App_Security-70%25-ff0040?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-
-### 🛡️ Defensive Security
-
-[![Network Security](https://img.shields.io/badge/Network_Security-70%25-00ffff?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![Secure Code Review](https://img.shields.io/badge/Secure_Code_Review-75%25-00ffff?style=for-the-badge&logo=codereview&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![Incident Response](https://img.shields.io/badge/Incident_Response-65%25-00ffff?style=for-the-badge&logo=alertatigation&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-
-### 🔐 Cryptography
-
-[![Encryption Algorithms](https://img.shields.io/badge/Encryption_Algorithms-80%25-ff00ff?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![PKI & Certificates](https://img.shields.io/badge/PKI_&_Certificates-75%25-ff00ff?style=for-the-badge&logo=keybase&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-[![Hash Functions](https://img.shields.io/badge/Hash_Functions-85%25-ff00ff?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=1a1a25)](https://github.com/Nivishka-M)
-
-</div>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> // Tech Stack & Tools
 
@@ -166,9 +129,9 @@ class CyberSecurityEngineer:
 
 <div align="center">
 
-<a href="#">
+<!--<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nivishka-M&repo=crowdsync&theme=radical&bg_color=0a0a0f&border_color=00ffff&title_color=00ffff&icon_color=ff00ff" alt="CrowdSync"/>
-</a>
+</a>-->
 
 </div>
 
@@ -240,10 +203,10 @@ class CyberSecurityEngineer:
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 </p>
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> // GitHub Analytics
+<!-- GitHub Stats Section
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> // GitHub Analytics -->
 
-<div align="center">
+<!--<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nivishka-M&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9&bg_color=0a0a0f&ring_color=00ffff" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivishka-M&theme=radical&hide_border=true&background=0a0a0f&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff" alt="Streak Stats" />
 </div>
@@ -254,31 +217,20 @@ class CyberSecurityEngineer:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivishka-M&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0a0a0f&langs_count=8" alt="Most Used Languages" />
-</div>
+</div>-->
 
-<!-- Animated Snake Contribution -->
+<!-- Animated Snake Contribution
 <div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/Nivishka-M/Nivishka-M/output/github-contribution-grid-snake-dark.svg)
   
-</div>
+</div>-->
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 </p>
 
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nivishka-M&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
-</p>
 
 <!-- Connect Section -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> // Establish Connection
@@ -300,18 +252,18 @@ class CyberSecurityEngineer:
 <a href="https://github.com/Nivishka-M">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="#">
+<!--<a href="#">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-</a>
+</a>-->
 
 </div>
 
 <!-- Profile Views Counter -->
-<div align="center">
+<!-- <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Nivishka-M&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Nivishka-M?style=for-the-badge&color=ff00ff&label=FOLLOWERS" alt="Followers"/>
-</div>
+</div> -->
 
 <!-- Spotify Now Playing (Optional - requires additional setup) -->
 <!--
